@@ -7,3 +7,33 @@ body {
     margin: 0;
     padding: 0;
 }
+
+/* @media (max-width: 768px) {
+    .navbar {
+      flex-wrap: wrap;
+    }
+    .navbar-nav {
+      flex-direction: column;
+    }
+    .navbar-collapse {
+      display: none;
+    }
+    .navbar-toggler {
+      display: block;
+    }
+  } */
+
+  .navigation_container{
+    padding: 0;
+    margin: 0 20%;
+  }
+
+  .nav-space{
+    margin: 0 15%;
+  }
+  .nav-item{
+    margin: 0 20px
+  }
+
+
+  
